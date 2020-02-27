@@ -1,0 +1,2 @@
+# CalBandTransition
+The University of California Marching Band (Cal Band) is a popular student group at Berkeley. As part of the performance, the band often forms several formations on the field transitioning from one to another while marching and playing music. My group and I made a little program to help the Cal Band assign positions and marching routes to its members during a transition. The code was designed to save time and is significantly faster than working out a solution to a transition by hand. *(Spring 2016 E7 final project by JC, FZL, AY)*
